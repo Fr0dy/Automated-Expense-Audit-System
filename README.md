@@ -75,13 +75,6 @@ Upon execution, the script generates a complete audit package:
 
 ---
 
-## 🖼️ Dashboard Preview
-
-*(Place screenshot of your PDF Report or Excel Dashboard here)*
-> *The system automatically visualizes the financial impact of each fraud type.*
-
----
-
 ## 💻 How to Run This Project
 
 1.  **Clone the Repository:**
